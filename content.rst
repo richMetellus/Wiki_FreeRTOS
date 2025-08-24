@@ -1,5 +1,14 @@
-Topic Template Title 
-###################################
+FreeRTOS 
+##########
+
+
+.. toctree::
+   :caption: General
+   :glob:
+   :numbered:
+   :maxdepth: 1
+
+   FreeRTOS-*
 
 .. only:: personal
 
@@ -18,7 +27,7 @@ Courses
 *********
 
 .. toctree::
-    :caption: Journal
+    :caption: Course List
     :glob:
     :numbered:
     :maxdepth: 1
