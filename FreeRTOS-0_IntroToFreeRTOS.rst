@@ -184,7 +184,7 @@ so your host computer can recognize it.
 1. You can find which chip your board is using by looking at its datasheet or
    by looking at the board itself.
    
-   .. image:: /Operating_System/_images/FreeRTOS-0_esp32_38Pins.png
+   .. image:: ./_images/FreeRTOS-0_esp32_38Pins.png
       :alt: credit Achim Pieters
       :width: 716px
       :height: 380px
